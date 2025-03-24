@@ -1,3 +1,4 @@
+*.csv
 mnist_fashion_test.csv
 mnist_fashion_train.csv
 model_weights.pth
